@@ -1,5 +1,5 @@
 goonathan
 =========
-Jonathan Diego Mendoza Martínez
+Jonathan Diego Mendoza Martinez
 
 profesionalizacion-frontend
